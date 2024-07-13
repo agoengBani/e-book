@@ -7,8 +7,19 @@ const Home = () => {
       <div className="home">
          <Header />
          <div className="content">
-            <p>Halaman Home</p>
+            <h1>KUMPULAN BUKU MENARIK</h1>
             <div className="content-cards">
+               <Cards />
+               <Cards />
+               <Cards />
+               <Cards />
+               <Cards />
+               <Cards />
+               <Cards />
+               <Cards />
+               <Cards />
+               <Cards />
+               <Cards />
                <Cards />
                <Cards />
             </div>
